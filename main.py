@@ -19,7 +19,7 @@ pygame.mixer.music.load(f"{path}")
 pygame.mixer.music.play()
 
 # Help command
-print("Enter 'help' for command list")
+print("Enter 'help' for commands list")
 
 while True:
     # Keep the program running to allow music to play
